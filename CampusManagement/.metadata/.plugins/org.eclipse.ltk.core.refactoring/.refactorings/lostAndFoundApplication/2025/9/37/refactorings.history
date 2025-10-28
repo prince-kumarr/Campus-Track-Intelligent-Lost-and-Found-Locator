@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;edu.infosys.lostAndFoundApplication.config.EncodeConfig.java&apos; to &apos;EncoderConfig.java&apos;&#x0D;&#x0A;- Original project: &apos;lostAndFoundApplication&apos;&#x0D;&#x0A;- Original element: &apos;edu.infosys.lostAndFoundApplication.config.EncodeConfig.java&apos;&#x0D;&#x0A;- Renamed element: &apos;edu.infosys.lostAndFoundApplication.config.EncoderConfig.java&apos;" description="Rename compilation unit &apos;EncodeConfig.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;edu.infosys.lostAndFoundApplication.config{EncodeConfig.java" name="EncoderConfig.java" references="false" stamp="1757530440658" version="1.0"/>
+</session>
