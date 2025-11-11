@@ -1,0 +1,5 @@
+package edu.infosys.lostAndFoundApplication.config;
+
+public class WebSocketConfig {
+
+}

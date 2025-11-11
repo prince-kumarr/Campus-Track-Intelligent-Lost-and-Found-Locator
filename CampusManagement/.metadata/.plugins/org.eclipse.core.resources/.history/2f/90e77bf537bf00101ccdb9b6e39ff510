@@ -1,0 +1,5 @@
+package edu.infosys.lostAndFoundApplication.chat;
+
+public class ChatMessage {
+
+}
