@@ -130,7 +130,7 @@ A comprehensive **Lost & Found Management System** designed for campuses to help
 ### 1. Clone the Repository
 
 ```bash
-git clone "github.com/XhausticCodes/CampusTrack-Lost-Found-App"
+git clone "github.com/XhausticCodes/CampusTrack-Lost-Found-App](https://github.com/prince-kumarr/Campus-Track-Intelligent-Lost-and-Found-Locator"
 cd InfosysProject
 ```
 
